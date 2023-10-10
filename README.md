@@ -7,3 +7,10 @@ This repository is created for SEG 4105 Software Project Management Class. It is
 ## License
 
 Using License MIT
+
+Group Members:
+
+- Andy: https://github.com/andyung17/seg4105_playground/tree/main/lab03
+- Khai : https://github.com/khaiqtran13/seg4105_playground/tree/main/lab03
+- Luka: https://github.com/LukaDavid04/seg4105_playground
+- Adhish: https://github.com/adhish2001/seg4105_playground/tree/main/deliverable01
