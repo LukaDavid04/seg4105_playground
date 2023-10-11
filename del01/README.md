@@ -1,4 +1,4 @@
-| SEG 4105  | Laboratory 4                                                                       |
+| SEG 4105  | Deliverable 4                                                                      |
 | --------- | ---------------------------------------------------------------------------------- |
 | Student   | Luka David, 300134324, ldavi029@uottawa.ca                                         |
 | TA        | Shabnam Hassaniahari, shass126@uottawa.ca <br> Ali Mirferdos , smirf045@uottawa.ca |
@@ -8,12 +8,6 @@
 ## Feature - Social Interaction
 
 This feature represents how users will interact by way of following one another. This will be initiated when users decide to follow each other accessed through the search page, they will then be able to see each other's workouts and routines (If they choose to make this data visible). Lastly they will be able to add their friends workouts to their own account for personal use.
-
-## Breadboarding
-
-### Social Feature
-
-![Social Feature Fat Marker Sketching](image.png)
 
 ## Shaping Work
 
@@ -36,3 +30,17 @@ It is important that the search results can easily provide accounts that the use
 ### No Go's
 
 Incorrect search results as well as bugs with following users will create significant issues for our application and would be considered incredibly detrimental. The following and follower mechanics should be well tested to prevent such issues. Also keeping private users data private, is a critically important aspect of this feature. If any unwanted data is made public it could be seriously detrimental for the project.
+
+- Andy: https://github.com/andyung17/seg4105_playground/tree/main/lab03
+- Khai : https://github.com/khaiqtran13/seg4105_playground/tree/main/lab03
+- Luka: https://github.com/LukaDavid04/seg4105_playground/tree/del01
+- Adhish: https://github.com/adhish2001/seg4105_playground/tree/main/deliverable01
+- Ava: https://github.com/AvaneeshM/seg4105_playground/tree/main/lab03
+
+|       Name        |        Email        | Student Number |       Current Role        |
+| :---------------: | :-----------------: | :------------: | :-----------------------: |
+|     Andy Ung      | aung015@uottawa.ca  |   300117710    |     Business Analyst      |
+|    Luka David     | ldavi029@uottawa.ca |   300134324    |      Project Manager      |
+|     Khai Tran     | ktran093@uottawa.ca |   300112587    |         Architect         |
+| Avaneesh Madaram  | amada034@uottawa.ca |   300130329    |      Lead Developer       |
+| Adhish Maheswaran | amahe023@uottawa.ca |   300133918    | Quality Assurance Manager |
