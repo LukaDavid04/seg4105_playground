@@ -1,9 +1,17 @@
-| SEG 4105  | Tutorial 6                                                                         |
+| SEG 4105  | Deliverable 2                                                                      |
 | --------- | ---------------------------------------------------------------------------------- |
 | Student   | Luka David, 300134324, ldavi029@uottawa.ca                                         |
 | TA        | Shabnam Hassaniahari, shass126@uottawa.ca <br> Ali Mirferdos , smirf045@uottawa.ca |
 | Professor | Andrew Forward, aforward@hey.com                                                   |
 | Course    | Software Project Management, Fall 2023                                             |
+
+# Group Submission:
+
+https://github.com/andyung17/seg4105_playground/blob/main/del02/README.md#seg4105---delierable-2
+
+This README is just to provide my notes for before and after the betting. My group member wasn't able to update the submission to include a link to this page. Our group submission is the link above. Our Meeting minutes are below:
+
+https://github.com/LukaDavid04/FitShare/blob/main/Minutes.md#meeting-date-2023-10-12
 
 ## FitShare - Overview
 
@@ -17,7 +25,7 @@ Meeting will take place over discord, in a voice call where people will have the
 
 ### Time
 
-Betting will take place on Thursday, October 12th at 2:00 PM ET. Kick-off will take place on Thursday, October 19th.
+Betting took place on Thursday, October 12th at 2:00 PM ET. Kick-off will take place on Thursday, October 19th.
 
 ### Expectation
 
@@ -30,7 +38,7 @@ This feature represents how users will interact by way of following one another.
 ![Social Feature Breadboarding](image1.png)
 ![Social Feature Fat Marker Sketch](image.png)
 
-## Pitch
+## Winning Pitch
 
 One of the hardest challenges of a healthy lifestyle is having regular activity on a week to week basis. Most people struggle to find motivation to be active or lack the knowledge of what to do. It is difficult to hold yourself accountable, and most people don't want to invest the resources to have someone teach them the basics of exercising on a regular basis.
 
@@ -42,14 +50,51 @@ It is important that the search results can easily provide accounts that the use
 
 Incorrect search results as well as bugs with following users will create significant issues for our application and would be considered incredibly detrimental. The following and follower mechanics should be well tested to prevent such issues. Also keeping private users data private, is a critically important aspect of this feature. If any unwanted data is made public it could be seriously detrimental for the project.
 
-## Notes
+## Notes (Prior)
+
+### Andy - Workout Generation
+
+- Workout generation is targeted towards gym users
+- Convenient and informative alternative to creating your own workouts
+- How will the algorithm create these playlists?
+  - Will it have a certain amount of randomness to provide variation?
+
+### Khai - Sessions
+
+- This be a modification to the old sessions we had implemented in our previous version
+- This will primarily follow gym users
+  - There won't be capabilites for other forms of exercise such as running or swimming
+- How much resources will we spend on the user interface
+- Backend, will need more resources to complete
+
+### Avaneesh - Log in
+
+- How does it compare to our current implementation of the log in page
+- Seems very simple in principle
+- Would this be just the UI?
+  - Does this factor in backend
+- Does not include whether they can create an account
+- Does not use real emails or validation for emai;s
+
+### Adhish - Calendar
+
+- How far back would the calendar be able to go?
+  - Seems like it would only show certain dates within the week
+  - Showing far back information could cause a lot of data to be stored in the database
+- How much of the screen would this widget take up
+- Would this take the projected amount of time, if only one person can work on it
+- How would we deal with the new types of data
+
+## Notes (Post)
 
 ### Andy - Workout Generation
 
 - Workout generation is a solution for people with little knowledge of the physical activity space
 - Can create based on a survey from user input
 - Will require an algorithm to generate the workouts, based of exercises within a database
+  - Algorithm would not be complex, just use probabilites based on responses
   - Workout information will not be saved
+  - Will address variability in changelog
 
 ### Khai - Sessions
 
@@ -57,22 +102,26 @@ Incorrect search results as well as bugs with following users will create signif
 - This will be a UI that prompts the user with exercises they then scroll through
 - Information will be tracked in real time, passing into the database
 - The idea is that the data can also be more easily or accurately stored
+- Would be an improved version of the previous implementation
+- Would require more work from frontend and backend to complete
 
 ### Avaneesh - Log in
 
 - Sign up or log in is a solution to individualize accounts to store information for workouts
 - It's a fairly commmon feature that is standard among projects, howevever it is not as easy to implement
 - One of the main difficulties will be saving and storing the data and making sure authentication is secure
--
+- It does not currently support email verification
 
 ### Adhish - Calendar
 
 - Calendar is a solution that implements tracking data through dates
+- It would only show the most recent dates in the week
 - This will allow information to be stored in a history like aspect for easy access and reuse
 - This ties into features such as strat tracking as you can view progress with the new data being tracked over time
 - this is mainly a challenge for the frontend as many pages are needed for saving workouts, selecting dates etc
+  - Also would be a challenge for backend to store all this information efficiently
 
-## Questions
+## Questions (For Andy)
 
 What will happen when users provide the same parameters or want more variation? If a user goes through routines or workouts and uses the same parameters will there be variation?
 
@@ -92,6 +141,6 @@ For more variations, there should be some sort of option to select certain worko
 
 - Andy: https://github.com/andyung17/seg4105_playground/tree/main/lab03
 - Khai : https://github.com/khaiqtran13/seg4105_playground/tree/main/lab03
-- Luka: https://github.com/LukaDavid04/seg4105_playground/tree/del01
+- Luka: https://github.com/LukaDavid04/seg4105_playground/tree/main/del01
 - Adhish: https://github.com/adhish2001/seg4105_playground/tree/main/deliverable01
 - Ava: https://github.com/AvaneeshM/seg4105_playground/tree/main/lab03
