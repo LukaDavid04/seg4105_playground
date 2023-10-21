@@ -7,9 +7,11 @@
 
 # Group Submission:
 
+**This README is just to provide my notes for before and after the betting, My group member wasn't able to update the submission to include a link to this page.**
+
 https://github.com/andyung17/seg4105_playground/blob/main/del02/README.md#seg4105---delierable-2
 
-This README is just to provide my notes for before and after the betting. My group member wasn't able to update the submission to include a link to this page. Our group submission is the link above. Our Meeting minutes are below:
+Our group submission is the link above. The group submission for Team 23 includes all the necessary information for this deliverable. Our Meeting minutes are below.
 
 https://github.com/LukaDavid04/FitShare/blob/main/Minutes.md#meeting-date-2023-10-12
 
